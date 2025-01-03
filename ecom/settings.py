@@ -29,8 +29,8 @@ SECRET_KEY = 'django-insecure-%be&3#+bp5a1sigo*q19==)^+nks&jg3+*%nuiap_pn_7r-#9#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['amanzon-production-071d.up.railway.app','https://amanzon-production-071d.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['https://amanzon-production-071d.up.railway.app']
+ALLOWED_HOSTS = ['amanzon-production-c6f7.up.railway.app','https://amanzon-production-c6f7.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://amanzon-production-c6f7.up.railway.app']
 
 # Application definition
 
